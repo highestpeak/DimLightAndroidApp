@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DimLight</string>
+    <string name="text_placeholder">TEXT PLACEHOLDER</string>
+    <string name="text_desc_mock">
+        TEXT DESC MOCK DATA!
+        TEXT DESC MOCK DATA!
+        TEXT DESC MOCK DATA!
+        TEXT DESC MOCK DATA!
+        TEXT DESC MOCK DATA!
+        TEXT DESC MOCK DATA!
+        TEXT DESC MOCK DATA!
+    </string>
+    <string name="DEFAULT_BADGE_NUM_TEXT_HOLDER">99+</string>
+
+    <string name="setting">设置</string>
+    <string name="about">关于 &amp; 支持</string>
+    <string name="all_feed">所有订阅</string>
+    <string name="star_feed">我的收藏</string>
+    <string name="inbox_feed">Inbox</string>
+    <string name="default_account_name">highestpeak</string>
+    <string name="default_account_server_name">DimLightServer</string>
+    <string name="default_recent_sync_desc">最近同步 04/01 10:06</string>
+</resources>

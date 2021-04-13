@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="item_source_max_len">32</integer>
+    <integer name="item_time_max_len">6</integer>
+    <integer name="slide_animation_duration">300</integer>
+</resources>
